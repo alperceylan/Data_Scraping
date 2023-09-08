@@ -4,6 +4,6 @@
 ##### I used the following libraries **:**
 
 **+ requests**
-**+ BeautifulSoup**
-**+ time**
-**+ re**
+<br> **+ BeautifulSoup**
+<br> **+ time**
+<br> **+ re**
